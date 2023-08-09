@@ -3,6 +3,8 @@
 print("hello world!")
 print("oppenhimer is very good movie")
 
+print("lil Norm")
+
 library(dplyr)
 mtcars %>%
   select(1:5) %>%
