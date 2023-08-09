@@ -16,4 +16,4 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - Python programming
 - Essential Pyhton for Data Analyst
 - Dashboard
-- 
+  
