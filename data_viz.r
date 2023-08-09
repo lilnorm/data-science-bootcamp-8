@@ -5,3 +5,6 @@ library(ggplot2)
 
 ggplot(diamonds, aes(carat, price)) +
   geom_point()
+
+ggplot(mtcars, aes(mpg, hp)) +
+  geom_point()
